@@ -53,7 +53,7 @@ image.show()
 
 ## Notebooks
 
-- `notebooks/artgen_api_benchmark.ipynb`: Benchmarking API image generation.
+- `notebooks/artgen_api_benchmark.ipynb`: Benchmarking API image generation. (since i used open ai sk)
 - `notebooks/exploratory_analysis.ipynb`: Data exploration and prompt analysis.
 
 ## Research
