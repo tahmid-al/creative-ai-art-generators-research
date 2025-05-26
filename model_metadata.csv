@@ -1,0 +1,29 @@
+
+
+model_name,year,type,open_source,notable_features,organization,link
+Stable Diffusion,2022,Diffusion,Yes,"Fast, open weights, supports fine-tuning",Stability AI,https://stability.ai/
+DALL·E 3,2023,Transformer,No,"Best text-to-image coherence, OpenAI API, inpainting",OpenAI,https://openai.com/dall-e-3
+Midjourney,2022,Proprietary,No,"Most artistic, creative community, Discord integration",Midjourney,https://www.midjourney.com/
+DeepArt,2017,Style Transfer,Yes,"Style transfer, neural filters",DeepArt.io,https://deepart.io/
+Dream by Wombo,2021,Diffusion,No,"Mobile app, wide style variety, unlimited generations",Wombo,https://www.wombo.art/
+Craiyon,2022,Transformer,Yes,"Accessible, web demo, fast",Craiyon,https://www.craiyon.com/
+Artbreeder,2018,GAN/Genetic,No,"Collaborative, blending images, gene editing",Artbreeder,https://www.artbreeder.com/
+Google Imagen,2022,Diffusion,No,"High realism, high FID, text-image alignment",Google Research,https://imagen.research.google/
+PaintsChainer,2017,Conditional GAN,Partially,"Anime-style auto-colorization, user-guided",Preferred Networks,https://paintschainer.preferred.tech/
+Deep Dream,2015,CNN,Yes,"Inceptionism, hallucinogenic visuals, open-source",Google Research,https://deepdreamgenerator.com/
+RunwayML Gen-2,2023,Diffusion/Video,No,"Text-to-video, video-to-video, real-time",Runway,https://runwayml.com/
+NightCafe Creator,2019,Diffusion/VQGAN,No,"Multi-model, style variety, credits system",NightCafe Studio,https://creator.nightcafe.studio/
+BlueWillow,2023,Diffusion,No,"Discord-based, free tier, community focus",BlueWillow,https://www.bluewillow.ai/
+Fotor GoArt,2017,Style Transfer,No,"Batch process, mobile/desktop, NFT focus",Fotor,https://goart.fotor.com/
+Pixray,2021,VQGAN+CLIP,Yes,"Highly configurable, scriptable, multiple engines",Pixray,https://pixray.gob.io/
+InvokeAI,2022,Diffusion,Yes,"UI for Stable Diffusion, local generation, negative prompts",InvokeAI,https://invoke.ai/
+Leonardo AI,2023,Diffusion,No,"Text-to-image, inpainting, video, upscaling",Leonardo AI,https://leonardo.ai/
+Jasper Art,2022,Diffusion,No,"Commercial integration, API, easy UX",Jasper,https://www.jasper.ai/art
+Adobe Firefly,2023,Diffusion,No,"Brand safe, content credentials, integrated in Adobe tools",Adobe,https://www.adobe.com/sensei/generative-ai/firefly.html
+StarryAI,2021,Diffusion,No,"NFT support, mobile app, creative controls",StarryAI,https://www.starryai.com/
+Deep Fake Art,2019,GAN,No,"Faceswap, video deepfakes, custom training",Community,https://deepfakeart.com/
+Lensa AI,2022,Diffusion,No,"Portrait/avatars, mobile, trending",Prisma Labs,https://lensa-ai.com/
+Pollinations,2022,Diffusion,Yes,"API, browser extension, customizable",Pollinations,https://pollinations.ai/
+CF Spark,2022,Diffusion,No,"Community driven, open model, prompts showcase",Creative Fabrica,https://www.creativefabrica.com/spark/
+Prisma,2016,Style Transfer,No,"Mobile app, artistic filters, viral popularity",Prisma Labs,https://prisma-ai.com/
+MuseNet,2019,Transformer,No,"Multi-instrument music, creative AI composition",OpenAI,https://openai.com/research/publications/musenet
